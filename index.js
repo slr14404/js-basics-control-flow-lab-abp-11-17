@@ -21,5 +21,4 @@ function switchOnCharmFromTip(tipstring) {
     return "Thank you."
   default:
     return "Bye"
-  }
 }
