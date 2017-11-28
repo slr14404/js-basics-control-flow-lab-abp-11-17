@@ -13,3 +13,12 @@ function scuberGreetingForFeet(distance) {
 function ternaryCheckCity (city) {
   return (city === "NYC") ? "Ok, sounds good." : "No go."
 }
+function switchOnCharmFromTip(tipstring) {
+  switch (tipstring)
+    generous 
+      return "Thank you so much.""
+    not as generous 
+      return "Thank you."
+    default
+      return "Bye"
+}
