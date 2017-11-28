@@ -14,7 +14,7 @@ function ternaryCheckCity (city) {
   return (city === "NYC") ? "Ok, sounds good." : "No go."
 }
 function switchOnCharmFromTip(tipstring) {
-  switch (tipstring)
+  switch(tipstring)
   case 1:
     generous = "Thank you so much.""
   case 2:
