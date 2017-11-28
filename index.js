@@ -15,10 +15,10 @@ function ternaryCheckCity (city) {
 }
 function switchOnCharmFromTip(tipstring) {
   switch (tipstring)
-    generous:
-      return "Thank you so much.""
-    not as generous:
-      return "Thank you."
-    default:
-      return "Bye"
+  case 1:
+    generous = "Thank you so much.""
+  case 2:
+    not as generous: "Thank you."
+  default:
+    "Bye"
 }
